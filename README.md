@@ -6,6 +6,6 @@ Basic prometheus collector to collect random data.
 
 go run *.go
 
-## Try
+## Usage
 
 http://127.0.0.1:9118
